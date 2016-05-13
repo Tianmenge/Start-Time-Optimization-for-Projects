@@ -1,1 +1,1 @@
-Consider the combination of different building type.
+Consider the combination of different building types.
