@@ -1,1 +1,1 @@
-Does not consider the combination of different building type.
+Does not consider the combination of different building types.
